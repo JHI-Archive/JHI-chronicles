@@ -36,8 +36,7 @@ TIPA documents what happened.»
 Chronicle| Title| Status
 JHI-001| Reserved| Pending
 JHI-002| Reserved| Pending
-JHI-003| The House of Returned Voices| Active
-
+JHI-003| Reserved| Pending
 ---
 
 ## TIPA Directives
