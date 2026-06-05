@@ -53,19 +53,30 @@ JHI-003| The House of Returned Voices| Active
 ## Archive Structure
 
 chronicles/
+
 ├── JHI-001.md
+
 ├── JHI-002.md
+
 ├── JHI-003.md
 
 lore/
+
 ├── TIPA.md
+
 ├── CLASSIFICATION_SYSTEM.md
 
+
 records/
+
 ├── photographs/
+
 ├── audio/
+
 ├── police_reports/
+
 └── court_records/
+
 
 ---
 
