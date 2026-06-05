@@ -1,14 +1,14 @@
-# JHI Archive
+# PHI Archive
 
 > Official archive of the Threshold Initiative for Paranatural Affairs (TIPA)
 
-## What is JHI?
+## What is PHI?
 
-The Jinn-Human Interactions Archive (JHI) is a collaborative fiction project documenting encounters between human populations and paranatural phenomena.
+The Paranatural Human Interactions Archive (PHI) is a collaborative fiction project documenting encounters between human populations and paranatural phenomena.
 
 The archive is maintained by the Threshold Initiative for Paranatural Affairs (TIPA), an investigative organization tasked with documenting, analyzing, and responding to unusual interactions.
 
-Unlike traditional paranormal archives, JHI focuses on interactions rather than anomalies.
+Unlike traditional paranormal archives, PHI focuses on interactions rather than anomalies.
 
 ## Core Principle
 
@@ -18,9 +18,9 @@ Unlike traditional paranormal archives, JHI focuses on interactions rather than 
 
 ## Recommended Reading
 
-- JHI-001
-- JHI-002
-- JHI-003
+- PHI-001
+- PHI-002
+- PHI-003
 
 ## TIPA Directives
 
